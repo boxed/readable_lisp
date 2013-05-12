@@ -2,8 +2,8 @@ Readable Lisp
 =============
 
 An implementation of a subset of the Readable Lisp Project ( http://readable.sourceforge.net/ ). 
-Currently only supports Clojure and just the indent-instead-of-parenthesis part of the Readable Lisp spec. 
-Even those parts are probably rather buggy :P
+Currently only tested with some Clojure code and only supports the indent-instead-of-parenthesis 
+part of the Readable Lisp spec. Even those parts are probably rather buggy :P
 
 Example:
 
