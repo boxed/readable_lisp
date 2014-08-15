@@ -1,3 +1,6 @@
+For a much more useful and, I think, nice way to do something like this I have a new project: https://github.com/boxed/indent-clj
+
+
 Readable Lisp
 =============
 
